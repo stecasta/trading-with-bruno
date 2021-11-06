@@ -1,3 +1,3 @@
 # trading-with-bruno
 
-Deep learning for trading / portfolio manaagement. 
+Deep learning for trading / portfolio management. 
